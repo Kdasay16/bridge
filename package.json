@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Kdasay16/bridge/issues"
   },
-  "homepage": "https://github.com/Kdasay16/bridge#readme"
+  "homepage": "https://github.com/Kdasay16/bridge#readme",
+  "dependencies": {
+    "webpack": "^3.5.4"
+  }
 }
